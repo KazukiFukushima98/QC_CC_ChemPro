@@ -1,0 +1,8 @@
+amplify==1.4.2
+deap==1.4.4
+gurobipy==13.0.1
+hobotan==1.0.0
+numpy==2.4.4
+pyqubo==1.5.0
+symengine==0.14.1
+sympy==1.14.0
