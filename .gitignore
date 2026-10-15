@@ -1,17 +1,6 @@
-# Virtual environment
-.venv/
-
-# IDE
-.idea/
-
-# Claude Code
-.claude/
-
-# Python cache
 __pycache__/
-*.pyc
-*.pyo
-
-# Output files
-*.xlsx
 *.csv
+agg/
+figs/
+.claude/
+.idea/

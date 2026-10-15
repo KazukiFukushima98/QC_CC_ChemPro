@@ -1,8 +1,8 @@
-amplify==1.4.2
+numpy==2.4.2
+pandas==3.0.1
+torch==2.10.0
+hobotan @ git+https://github.com/ShoyaYasuda/hobotan@589e409f22f85e33ce51cb51ce36dc4c63361ebf
 deap==1.4.4
 gurobipy==13.0.1
-hobotan==1.0.0
-numpy==2.4.4
-pyqubo==1.5.0
+amplify==1.4.2
 symengine==0.14.1
-sympy==1.14.0
