@@ -2,7 +2,7 @@
 
 Code for the manuscript
 
-> K. Fukushima, K. Yagihara, H. Ohno, Y. Fukushima, "Toward quantum computing-aided process design: Quantum-classical hybrid approaches in conceptual reactor optimization", AIChE Journal (under review).
+> K. Fukushima, K. Yagihara, H. Ohno, Y. Fukushima, "Toward quantum-computing-aided process design: Quantum-classical hybrid approaches for conceptual reactor optimization", AIChE Journal (under review).
 
 The scripts build the Higher-Order Binary Optimization (HOBO) form of the reactor selection problem (R = 2–6 candidate reactors, n bits per continuous variable), solve it with parallel simulated annealing (hobotan, CPU/GPU), a genetic algorithm (DEAP), Gurobi, and the D-Wave hybrid solvers BQM and CQM (via Amplify), and count the variables of the formulations and the CNOT gates of the QAOA circuit.
 
